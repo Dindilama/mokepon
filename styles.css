@@ -83,7 +83,7 @@ input:checked + label {
     box-sizing: border-box;
     border-radius: 20px;
     border-color: transparent;
-    width: 180px;
+    width: 80px;
     color: white;
     font-family: 'Poppins', sans-serif;
 }
@@ -119,7 +119,16 @@ input:checked + label {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
 
+#ver-mapa {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#mapa {
+    border: 2px solid white;
 }
 
 @media (max-width: 360px) {
