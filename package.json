@@ -1,0 +1,15 @@
+{
+  "name": "mokepon",
+  "version": "1.0.0",
+  "main": "mokepon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mokepon"
+  },
+  "author": "Dindi",
+  "license": "ISC",
+  "description": ""
+}
